@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cls",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanthuy2001/nodejs_2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xuanthuy2001/nodejs_2/issues"
+  },
+  "homepage": "https://github.com/xuanthuy2001/nodejs_2#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
